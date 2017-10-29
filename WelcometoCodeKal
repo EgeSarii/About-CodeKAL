@@ -1,0 +1,8 @@
+package com.EgeSarii;
+public class WelcometoCodekal
+{   
+      public static void main(String[] args)
+      {       
+         System.out.println("Welcome to CodeKal");   
+      }
+} 
