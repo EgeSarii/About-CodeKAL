@@ -5,4 +5,5 @@ ellerinden geldiği kadar yardımcı oluyorlar ve öğrencilerin de böylece yaz
 - **Deniz Özbakır**: "CodeKAL, programlamanın günümüzde çok büyük bir yer tuttuğunun farkında olan, yazılımı merak eden ve öğrenmek 
 isteyen herkese açık, destekleyici üyelere sahip olan ve çok yeni kurulmasına rağmen gerçekten aktif olduğunu düşündüğüm bir kulüp. 
 CodeKAL'da gerçekten istediğim şeyleri başarmak için bir adım attığımı düşünüyorum ve ilgili herkese tavsiye ediyorum."
+-**Ege Sarı**: "CodeKal, her daim yeniliğe açık ve geleceğe hazır insanlar yetiştirmek amacı güden bir topluluk. Diğer klüplerden ayıran en büyük özelliği içinde barındırdığı insanların yaptıkları işe ve öğrenmeye duydukları merak. Umarım uzun yıllar boyunca aktif olurlar."
 - Add name/Adınızı ekleyin: "Your comment/yorumunuz."
